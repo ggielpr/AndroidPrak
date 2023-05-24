@@ -7,6 +7,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:543098799623:android:74e1b71db8db2002c88ca2",
+        "android_client_info": {
+          "package_name": "ru.mirea.gribanovdv.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543098799623-r1be1vdsvmi7qga4msamhbegs9nmm2t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuK5FzDfZMui75SKdhTAYB2YzrVFkV5I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543098799623-r1be1vdsvmi7qga4msamhbegs9nmm2t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:543098799623:android:0c8f0d39328dc2bcc88ca2",
         "android_client_info": {
           "package_name": "ru.mirea.tsitserid.firebaseauth"

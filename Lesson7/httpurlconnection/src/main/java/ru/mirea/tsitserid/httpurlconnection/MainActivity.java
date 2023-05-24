@@ -157,6 +157,7 @@ public class MainActivity extends AppCompatActivity {
             Log.d(MainActivity.class.getSimpleName(), result);
             try {
                 JSONObject responseJson = new JSONObject(result);
+
                 Log.d(MainActivity.class.getSimpleName(), "Response: " + responseJson);
                 JSONObject weatherJson = responseJson.getJSONObject("current_weather");
                 String temp = weatherJson.getString("temperature");
